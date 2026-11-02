@@ -1,0 +1,162 @@
+[
+  {
+    "timestamp": "2026-01-18T09:44:36.611Z",
+    "deviceType": "industrial",
+    "priority": "medium",
+    "cpu": 80,
+    "memory": 57,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "e9857488f6d2addfb311186625ddab192428da94"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.611Z",
+    "deviceType": "industrial",
+    "priority": "medium",
+    "cpu": 80,
+    "memory": 58,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "e6771b39d9d9b0c91848cd30b019808504184434"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.611Z",
+    "deviceType": "industrial",
+    "priority": "medium",
+    "cpu": 80,
+    "memory": 59,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "9e6e01d8c0bf2c822b5b7d945d6ccd0acebcb105"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.611Z",
+    "deviceType": "industrial",
+    "priority": "high",
+    "cpu": 80,
+    "memory": 59,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "534b2cfe5b29728db24c170434d5fd2a83be6ad9"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.613Z",
+    "deviceType": "industrial",
+    "priority": "high",
+    "cpu": 80,
+    "memory": 58,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "1c47d74af86fc5dfddd975e6891e52eb9f29636c"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.614Z",
+    "deviceType": "industrial",
+    "priority": "high",
+    "cpu": 80,
+    "memory": 57,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "af4e607a9d1a9f242136362ae1d2f9f4b679888d"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.618Z",
+    "deviceType": "industrial",
+    "priority": "medium",
+    "cpu": 80,
+    "memory": 55,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "dce9805d8655cf767a92fac5551b0a140fc80d56"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.619Z",
+    "deviceType": "industrial",
+    "priority": "medium",
+    "cpu": 80,
+    "memory": 54,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "2491b8fe2c0545c9d51e17314311414bdb7c235d"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.619Z",
+    "deviceType": "industrial",
+    "priority": "high",
+    "cpu": 80,
+    "memory": 56,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "eed134e4b58a2752b9a401c025f95a060eb0bd47"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.619Z",
+    "deviceType": "industrial",
+    "priority": "high",
+    "cpu": 80,
+    "memory": 54,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "42aacfede72cc08ed4cf945e28267ef907c2ffe3"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.626Z",
+    "deviceType": "industrial",
+    "priority": "medium",
+    "cpu": 80,
+    "memory": 56,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "d698bd304282238e7fea681cce1d683fd058dc35"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.645Z",
+    "deviceType": "industrial",
+    "priority": "high",
+    "cpu": 80,
+    "memory": 55,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "c01b0b4e9bf62b6eec3f8dd21cd657df71a66d9d"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.660Z",
+    "deviceType": "industrial",
+    "priority": "high",
+    "cpu": 80,
+    "memory": 60,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "730465971c23f4182f04d957c9cca914226c1272"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.664Z",
+    "deviceType": "industrial",
+    "priority": "medium",
+    "cpu": 80,
+    "memory": 60,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "8f5eadf35f46eecb80bc2d3be4f4b76ee7aa3fad"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.704Z",
+    "deviceType": "industrial",
+    "priority": "medium",
+    "cpu": 80,
+    "memory": 52,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "a48ad3288b3b2830bb3b49e4c05a67d7fe541f6e"
+  },
+  {
+    "timestamp": "2026-01-18T09:44:36.704Z",
+    "deviceType": "industrial",
+    "priority": "medium",
+    "cpu": 80,
+    "memory": 51,
+    "latency": 500,
+    "sensorId": "",
+    "rowHash": "7f41476038645111bf598c5842c11f32dee44046"
+  }
+]
